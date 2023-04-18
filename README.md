@@ -2,8 +2,8 @@
 Welcome to my GitHub repository where I have stored my Python projects. This repository is a collection of projects that I have worked on to improve my Python skills.
 
 ## Projects
-### Project 1:
-These are a set of Python projects that I created while following Angela Yu's Python course. In this course, I explored various Python functionalities and applications, which helped me to improve my programming skills.
+### Project 1: 100 DAYS OF CODE
+These are a set of Python projects that I created while following Angela Yu's Python course '100 DAYS OF CODE'. In this course, I explored various Python functionalities and applications, which helped me to improve my programming skills.
 
 ## Technologies Used
 * Python 3
